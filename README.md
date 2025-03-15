@@ -1,7 +1,5 @@
 # Campus_Network- Cisco Packet Tracer
-
 ---
-
 This project contains a Cisco Packet Tracer network setup for a campus.
 
 ---
