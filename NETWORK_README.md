@@ -1,6 +1,6 @@
 # Campus_Network- Cisco Packet Tracer
 
-This project contains a Cisco Packet Tracer network setup for a campus, and it's detailed report. **Must go through the report,**to know what we have implemented in this network Topology.
+This project contains a Cisco Packet Tracer network setup for a campus, and it's detailed report. **Must go through the report**,to know what we have implemented in this network Topology.
 
 ## How to Open
 1. Download the **Campus_Network.pkt** file, and it's **Network Report**.
