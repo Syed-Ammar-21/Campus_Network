@@ -4,5 +4,5 @@ This project contains a Cisco Packet Tracer network setup for a campus, and it's
 
 ## How to Open
 1. Download the `Campus_Network.pkt` file.
-2. Open it in **Cisco Packet Tracer**.
+2. Open it in **Cisco Packet Tracer** and **Network Report**.
 3. Explore the network topology.
